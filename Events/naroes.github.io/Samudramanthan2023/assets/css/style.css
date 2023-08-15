@@ -15,7 +15,7 @@ body {
 }
 
 a {
-    color: #1338BE;
+    color: #4294e3;
     text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ h6 {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #1338BE;
+    background: #4294e3;
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -175,7 +175,7 @@ h6 {
 
 .get-started-btn {
     margin-left: 22px;
-    background: #1338BE;
+    background: #6853F0;
     color: #fff;
     border-radius: 50px;
     padding: 8px 25px;
@@ -593,7 +593,7 @@ section {
 .breadcrumbs {
     margin-top: 73px;
     text-align: center;
-    background: #1338BE;
+    background: #6853F0;
     padding: 30px 0;
     color: #fff;
 }
